@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="my_orders">My Orders</string>
+    <string name="add_store">Add Store</string>
+    <string name="add_product">Add Product</string>
+    <string name="my_store_info">My Store Info</string>
+    <string name="change_language">Change Language</string>
+    <string name="change_password">Change Password</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="logout">Logout</string>
+    <string name="share_your_store_qr_code_or_msid">Share Your Store QR Code or MSID</string>
+    <string name="all_order">All Order</string>
+    <string name="welcome_to_your_store">WELCOME TO YOUR STORE</string>
+    <string name="search_item">Search Item</string>
+    <string name="my_stores">My Stores</string>
+    <string name="all_products">All Products</string>
+    <string name="create_your_own_store">CREATE YOUR OWN STORE</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="open_gallery">Open Gallery</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="open_files">Open Files</string>
+    <string name="upload_picture">Upload Picture</string>
+    <string name="choose_lang">Choose Language</string>
+</resources>
